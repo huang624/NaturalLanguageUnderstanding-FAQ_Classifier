@@ -9,4 +9,19 @@
 ## 應用  
 聊天機器人，輔助市民將問題導向相關單位
 
-### Accuracy: 0.84
+## Model
+### Pretrain Model
+```Python
+from transformers import BertConfig, BertForSequenceClassification
+config = BertConfig.from_pretrained('bert-base-chinese', num_labels=78)  
+model = BertForSequenceClassification.from_pretrained('bert-base-chinese', config=config)
+```
+### Hyperparameters for Finetuning
+Training_data:5397  
+Evaluation_data:1350  
+learning_rate=3e-5  
+batch_size = 5  
+epochs = 8  
+
+### Metric
+Accuarcy: 0.84
