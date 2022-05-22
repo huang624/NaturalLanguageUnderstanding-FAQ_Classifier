@@ -1,6 +1,13 @@
 # NaturalLanguageUnderstanding-FAQ_Classifier
 ## Demo
+**Q:老人假牙補助申請流程。  
+A:臺北市政府社會局老人福利科**  
+
 ![2022-05-22 18-30-41](https://user-images.githubusercontent.com/88367016/169691693-bf83fc7b-faf3-4a31-a015-a4ea5fffb29d.gif)
+  
+  
+**Q:同時申請高中職免學費方案補助及就學貸款之助學措施，核貸額度應為多少？   
+A:臺北市政府教育局中等教育科** 
 ![2022-05-22 18-51-09](https://user-images.githubusercontent.com/88367016/169691802-ffa00b80-418d-46e3-a8d9-4293e722e186.gif)
 
 ## 介紹  
